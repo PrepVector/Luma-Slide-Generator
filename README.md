@@ -1,2 +1,2 @@
-# lumalabs-ai-poc
-LumaLabs AI POC
+#     Luma-Slide-Generator
+    Luma-Slide-Generator
